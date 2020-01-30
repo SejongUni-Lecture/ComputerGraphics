@@ -1,5 +1,5 @@
-//3_5 Å°º¸µå ÀÔ·Â¿¡ µû¸¥ µµÇü Ãâ·ÂÇÏ±â
-//°úÁ¦2¿¡¼­ Çß´ø refresh ¹æ¹ý°ú µ¿ÀÏ 
+//3_5 í‚¤ë³´ë“œ ìž…ë ¥ì— ë”°ë¥¸ ë„í˜• ì¶œë ¥í•˜ê¸°
+//ê³¼ì œ2ì—ì„œ í–ˆë˜ refresh ë°©ë²•ê³¼ ë™ì¼ 
 
 #include<GL/glew.h>
 #include<GLFW/glfw3.h>
