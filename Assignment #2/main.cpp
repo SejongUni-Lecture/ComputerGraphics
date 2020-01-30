@@ -19,7 +19,7 @@ int colorindex;
 int axisIndex = 0;
 bool refresh = false;
 
-//ÁÂÇ¥Ãàº° È¸Àü°¢
+//ì¢Œí‘œì¶•ë³„ íšŒì „ê°
 enum { stop = 0, Zaxis = 1, Xaxis = 2, Yaxis = 3 };
 int Axis = 0;
 int currentpt = 0;
@@ -294,7 +294,7 @@ void setGasketVertices(unsigned int col1, unsigned int col2, unsigned int col3, 
 {
 	index = 0;
 
-	if (refresh) { //Á¤Á¡ÀÇ °¹¼ö¸¦ ´Ã¸®·Á°í ÇßÀ» ¶§
+	if (refresh) { //ì •ì ì˜ ê°¯ìˆ˜ë¥¼ ëŠ˜ë¦¬ë ¤ê³  í–ˆì„ ë•Œ
 		free(points);
 		free(colors);
 		
@@ -304,7 +304,7 @@ void setGasketVertices(unsigned int col1, unsigned int col2, unsigned int col3, 
 
 		glBufferData(GL_ARRAY_BUFFER, 2 * sizeof(vec3)*NumVertices, NULL, GL_STATIC_DRAW);
 		glVertexAttribPointer(vColor, 3, GL_FLOAT, GL_FALSE, 0, BUFFER_OFFSET(sizeof(vec3)*NumVertices));
-		//refresh ÇÒ ¶§ ²À! ÀúÀåµÇ´Â Á¤Á¡ÀÇ °¹¼ö°¡ ¹öÆÛ¿¡ ¸Â°Ô µé¾î°¬´ÂÁö È®ÀÎÇÒ °Í!
+		//refresh í•  ë•Œ ê¼­! ì €ì¥ë˜ëŠ” ì •ì ì˜ ê°¯ìˆ˜ê°€ ë²„í¼ì— ë§ê²Œ ë“¤ì–´ê°”ëŠ”ì§€ í™•ì¸í•  ê²ƒ!
 
 		points = (vec3*)malloc(sizeof(vec3)* NumVertices);
 		colors = (vec3*)malloc(sizeof(vec3)* NumVertices);
