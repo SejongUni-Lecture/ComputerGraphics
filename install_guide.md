@@ -6,7 +6,7 @@
 
 ## Setup directories
 1. Create **Dependencies > GLFW** folders in the project directory
-1. Copy **include** and **lib-vc[your vs ver.]** folders from GLFW folder you've downloaded
+1. Copy **include** and **lib-vc[your vs ver.]** folders from downloaded GLFW file
 2. Paste the folders in the **Dependencies > GLFW** folder
 3. Change **glew-2.1.0** folder name into **GLEW** 
 4. Move **GLEW** folder into **Dependencies folder**
