@@ -1,4 +1,4 @@
-# How to set OpenGl in Visual Studios environment
+# How to set OpenGL in Visual Studios environment
 
 ## Download files
 1. Download [GLFW 32-bit Windows binaries](www.glfw.org/download.html) and unzip
@@ -12,7 +12,7 @@
 4. Move **GLEW** folder into **Dependencies folder**
 
 ## Setup in Visual Studios
-From the menu bar, click **Project > Properties**
+From the menu bar, **Project > Properties**
 
 1. C/C++ > General > Additional include directories:
 ```
