@@ -20,4 +20,4 @@ C++ based on OpenGL
 For more information visit: 
 * [OpenGL documentation](https://www.opengl.org/documentation/)
 * [OpenGL tutorial](http://www.opengl-tutorial.org/kr/)
-* [OpenGL installation guide]("./install_guide.md")
+* [OpenGL installation guide]("https://github.com/ameliacode/Computer_Graphics/install_guide.md")
