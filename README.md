@@ -7,8 +7,8 @@ This repository is for **Computer Graphics** lecture related materials and assig
 ## Summary
 ### Assignments
 <p align = "center">
-<img src = "./img/assignment1.PNG", width = 350, height = 350></img>
 <img src = "./img/assignment2.gif", width = 350, height = 350></img>
+<img src = "./img/assignment1.PNG", width = 350, height = 350></img>
 <img src = "./img/assignment3.PNG", width = 350, height = 350></img>
 <img src = "./img/assignment4_bunny.gif", width = 350, height = 350></img>
 </p>
