@@ -16,7 +16,7 @@ From the menu bar, **Project > Properties**
 
 1. C/C++ > General > Additional include directories:
 ```
-$(SolutionDIr)Dependencies\GLFW\include
+$(SolutionDir)Dependencies\GLFW\include
 $(SolutionDir)Dependencies\GLEW\include
 ```
 
@@ -24,7 +24,7 @@ $(SolutionDir)Dependencies\GLEW\include
 2. Linker > General > Additional library directories:
 ```
 $(SolutionDir)Dependencies\GLFW\lib-vc2015 
-$(SolutionDIr)Dependencies\GLEW\lib\Release\Win32
+$(SolutionDir)Dependencies\GLEW\lib\Release\Win32
 ```
 
 
