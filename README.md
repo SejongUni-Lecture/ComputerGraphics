@@ -18,6 +18,6 @@ This repository is for **Computer Graphics** lecture related materials and assig
 ## Library
 C++ based on OpenGL  
 For more information visit: 
-* [OpenGL documentation](https://www.opengl.org/documentation/)
+* [OpenGL officials](https://www.opengl.org)
 * [OpenGL tutorial](http://www.opengl-tutorial.org/kr/)
 * [OpenGL installation guide](https://github.com/ameliacode/Computer_Graphics/blob/master/install_guide.md)
