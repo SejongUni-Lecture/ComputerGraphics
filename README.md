@@ -1,10 +1,8 @@
-# Computer Graphics
+## Computer Graphics
 
 This repository is for **Computer Graphics** lecture related materials and assignments   
 
 ---
-
-## Summary
 ### Assignments
 <p align = "center">
 <img src = "./img/assignment2.gif", width = 350, height = 350></img>
